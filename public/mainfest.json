@@ -3,7 +3,7 @@
     "name": "Weather App Pwa",
     "icons": [
         {
-            "src": "./imges/logo.png",
+            "src": "/images/logo.png",
             "type": "image/png",
             "sizes": "1024x1024"
         }

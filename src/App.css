@@ -8,8 +8,7 @@ body,
   margin: 0;
 }
 .main-container {
-  background: linear-gradient(rgb(17, 44, 152),rgb(213, 40, 40)),
-  url('https://imgcdn.pakistanpoint.com/media/2016/11/_3/730x425/pic_1478179121_1.jpg');
+  background: linear-gradient(rgb(11, 57, 243),rgb(247, 84, 84));
   background-size: cover;
   background-position: center;
 }
